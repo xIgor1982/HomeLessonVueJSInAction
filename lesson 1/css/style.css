@@ -1,0 +1,7 @@
+p, input {
+	font-family: monospace;
+}
+
+p {
+	white-space: pre;
+}
